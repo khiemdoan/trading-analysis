@@ -1,0 +1,8 @@
+jupyterlab==3.5.0
+python-dotenv==0.21.0
+python-binance==1.0.16
+pandas==1.5.1
+numpy==1.23.5
+matplotlib==3.6.2
+seaborn==0.12.1
+tqdm==4.64.1
